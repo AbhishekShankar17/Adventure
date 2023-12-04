@@ -1,6 +1,6 @@
 ## Abhishek Shankar (ashankar1@stevens.edu)
 
-### https://github.com/AbhishekShankar17/AdventureGame
+### https://github.com/AbhishekShankar17/Adventure
 
 1. Time spent: Spent about 9 - 11 hours on the design, map and coding part of the project. 
 
